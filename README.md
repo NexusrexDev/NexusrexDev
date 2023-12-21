@@ -1,5 +1,5 @@
 [![Nexusrex](https://raw.githubusercontent.com/NexusrexDev/NexusrexDev/main/nexcomplete.png)](https://nexusrexdev.github.io)
-![Visits Badge](https://badges.pufler.dev/visits/nexusrexdev/nexusrexdev?style=for-the-badge&color=%231469c3)
+![Visits Badge](https://komarev.com/ghpvc/?username=nexusrexdev&style=for-the-badge&color=1469c3)
 ## Greetings!
 I'm Ahmed, a Software Engineering student at Helwan University. Passionate about retro games, game development and music *(mainly metal and similar heavy or progressive genres. 🤘)*
 
