@@ -1,5 +1,14 @@
-[![](https://raw.githubusercontent.com/NexusrexDev/NexusrexDev/main/nexcomplete.png)](https://NexusrexDev.github.io)
+[![Nexusrex](https://raw.githubusercontent.com/NexusrexDev/NexusrexDev/main/nexcomplete.png)](https://NexusrexDev.github.io)
 ## Greetings!
+I'm Ahmed, a Software Engineering student at Helwan University. 
+
+### My Github stats
+<details>
+  <summary>
+    🟦
+  </summary>
+  ![NexusrexDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=NexusrexDev&show_icons=true&theme=transparent)
+</details>
 
 <!--
 **NexusrexDev/NexusrexDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
