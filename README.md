@@ -1,13 +1,21 @@
-[![Nexusrex](https://raw.githubusercontent.com/NexusrexDev/NexusrexDev/main/nexcomplete.png)](https://NexusrexDev.github.io)
+[![Nexusrex](https://raw.githubusercontent.com/NexusrexDev/NexusrexDev/main/nexcomplete.png)](https://nexusrexdev.github.io)
+![Visits Badge](https://badges.pufler.dev/visits/nexusrexdev/nexusrexdev?style=for-the-badge&color=%231469c3)
 ## Greetings!
-I'm Ahmed, a Software Engineering student at Helwan University. 
+I'm Ahmed, a Software Engineering student at Helwan University. Passionate about retro games, game development and music *(mainly metal and similar heavy or progressive genres. 🤘)*
 
-### My Github stats
+I'm currently learning Godot game engine, through a tiny project that I'm documenting on my [gamedev blog](https://nexusrexdev.github.io/gamedevcorner).
+All my other links exist on my [card](https://nexusrexdev.github.io) *(or click my banner!)*
+
 <details>
   <summary>
-    🟦
+    <h3>My Github stats</h3>
   </summary>
-  ![NexusrexDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=NexusrexDev&show_icons=true&theme=transparent)
+  <a>
+    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=NexusrexDev&show_icons=true&theme=transparent">
+  </a>
+  <a>
+    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexusrexDev&layout=compact&theme=transparent">
+  </a>
 </details>
 
 <!--
