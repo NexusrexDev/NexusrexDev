@@ -16,6 +16,9 @@ All my other links exist on my [card](https://nexusrexdev.github.io) *(or click 
   <a>
     <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexusrexDev&layout=compact&theme=transparent&include_orgs=true">
   </a>
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=NexusrexDev&theme=transparent&include_orgs=true">
+  </a>
 </details>
 
 <!--
