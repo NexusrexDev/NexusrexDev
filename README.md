@@ -7,14 +7,12 @@ I'm currently learning Godot game engine, through a tiny project that I'm docume
 All my other links exist on my [card](https://nexusrexdev.github.io) *(or click my banner!)*
 
 <details>
-  <summary>
-    <h3>My Github stats</h3>
-  </summary>
+  <summary>My Github stats</summary>
   <a>
-    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=NexusrexDev&show_icons=true&theme=transparent&include_orgs=true">
+    <img align="center" height="192px" src="https://github-readme-stats.vercel.app/api?username=NexusrexDev&show_icons=true&theme=transparent&include_orgs=true">
   </a>
   <a>
-    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexusrexDev&layout=compact&theme=transparent&include_orgs=true">
+    <img align="center" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexusrexDev&layout=compact&theme=transparent&include_orgs=true">
   </a>
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=NexusrexDev&theme=transparent&include_orgs=true">
