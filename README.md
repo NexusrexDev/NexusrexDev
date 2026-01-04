@@ -8,6 +8,6 @@ All my other links exist on my [portfolio](https://nexusrexdev.github.io) *(or c
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=NexusrexDev&hide_border=true&background=EB545400&ring=3898FF&fire=6EEEFF&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=F0F6FC&sideLabels=E4E9EF&dates=D0D6DB)](https://git.io/streak-stats)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=NexusrexDev&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 </div>
