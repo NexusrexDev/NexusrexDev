@@ -3,11 +3,5 @@
 ## Greetings!
 I'm Ahmed, a software engineer with a passion about retro games, game development and music.
 
-I'm currently learning Unity Engine through a bootcamp at Genesis Creations, but I'm also experimenting with Godot Engine and have made a couple of fun things with it!
+I'm currently a Unity developer @ Genesis Creations, but I'm also tinkering constantly with Godot Engine and have made a couple of fun things with it!
 All my other links exist on my [portfolio](https://nexusrexdev.github.io) *(or click my banner!)*
-
-<div align="center">
-  
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=NexusrexDev&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
-</div>
